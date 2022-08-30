@@ -5,4 +5,5 @@ y = int(input("y:"))
 print(f"jami {x+y}")
 print(f"sub {x-y}")
 print(f" mul {x*y}")
+print(f" div {x/y}")
 
